@@ -14,12 +14,6 @@
 <br />
 <br />
 
-<a href="https://your-vercel-link.vercel.app">Переглянути демо</a>
-.
-<a href="https://github.com/issam-seghir/discord-clone/issues">Повідомити про баг</a>
-.
-<a href="https://github.com/issam-seghir/discord-clone/pulls">Запропонувати покращення</a>
-
 </p>
 
 <br>
@@ -28,10 +22,6 @@
 </div>
 
 <br>
-
-![alt text](mockup-desktop.png)
-![alt text](mockup-mobile.png)
-
 
 ## Використані технології
 
