@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="logo.svg" alt="logo" width="300" height="250">
-
 <h1 align="center" >RainCord</h1>
 
 
