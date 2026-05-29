@@ -14,8 +14,8 @@ import { extractRouterConfig } from "uploadthing/server";
 const open_sans = Open_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "Discord Clone",
-	description: "A Full-Featured Real Time (Video , Audio , Chat) Application",
+	title: "RainCord",
+	description: "Real-time communication platform with channels, messaging and role management",
 	openGraph: {
 		type: "website",
 	},
@@ -50,7 +50,7 @@ export default function RootLayout({
 						attribute="class"
 						defaultTheme="dark"
 						enableSystem={false}
-						storageKey="discord-clone-theme"
+						storageKey="raincord-theme"
 						disableTransitionOnChange
 					>
 						<NextSSRPlugin

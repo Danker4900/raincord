@@ -9,7 +9,7 @@ import { MediaRoom } from "@/components/media-room";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-	title: "Discord Clone | Conversation",
+	title: "RainCord | Conversation",
 	description: "Conversation between members",
 	openGraph: {
 		type: "website",
