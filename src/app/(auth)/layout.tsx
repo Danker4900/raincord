@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 
 
 
-export const metadata: Metadata = {
-	title: "Discord Clone - Login",
-	description: "Log in to Discord & Discuss with your friends .",
+export const metadata = {
+  title: "RainCord",
+  description: "Real-time communication platform",
 };
 
 export default function Layout({ children }: { children: React.ReactNode }) {
